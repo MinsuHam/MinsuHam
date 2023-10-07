@@ -28,6 +28,6 @@
 
 <h3 align="center">🌝 Follow Me 🌝</h3>
 <p align="center">
-  <a href="https:https://mien.tistory.com/"><img src="https://img.shields.io/badge/Tistory%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=#E74C3C&link=https:https://mien.tistory.com/"/></a>&nbsp
+  <a href="https://mien.tistory.com/"><img src="https://img.shields.io/badge/Tistory%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=#E74C3C&link=https://mien.tistory.com/"/></a>&nbsp
   <a href="mailto:gkaalstn4867@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gkaalstn4867@gmail.com"/></a>
 </p>
